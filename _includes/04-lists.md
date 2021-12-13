@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. SPIDER MAN
+2. DOCTOR STRANGE 
+3. IRON MAN
+   1. AVENGERS INFINITY WAR
+   2. AVENGERS END GAME
+
+:Heart:
