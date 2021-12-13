@@ -1,1 +1,1 @@
-[Github] (https://github.com/Nithin-Kannan)
+[Github](https://github.com/Nithin-Kannan)
